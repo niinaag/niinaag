@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* CSS Document */
+p {
+	color:lightpink;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 20px;
+	line-height: 20px;
+	width: 1000px;
+	padding: 10px;	
+}
+h1 { 
+	font-family:"NikolinaGrubisic";
+	font-size: 50px;
+	color:lightpink;
+	background-color:lightskyblue;
+}
+h2 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: lightpink;
+}
+a:link {
+	color:lightpink;
+	background-color:lightskyblue;
+	padding: 10px;
+	line-height: 40px;	
+}
+a:hover {
+	background-color:honeydew;
+}
+body{
+	background-image: url("DOKUMENTI/pozadina2.png");
+}
+
